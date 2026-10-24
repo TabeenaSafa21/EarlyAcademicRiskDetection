@@ -1,0 +1,21 @@
+name,student_id,department,attendance_percent,current_test_score,assignment_completion,previous_test_score
+Aditya Kumar,CS2023001,Computer Science,52,38,45,60
+Meera Nair,ME2023002,Mechanical Eng.,88,76,91,72
+Pooja Sharma,EC2023003,Electronics,63,47,58,55
+Raj Patel,CE2023004,Civil Eng.,42,31,38,48
+Deepika Iyer,IT2023005,Info. Technology,90,84,96,80
+Suresh Babu,CS2023006,Computer Science,71,53,67,57
+Lakshmi Menon,ME2023007,Mechanical Eng.,48,35,42,50
+Harish Verma,EC2023008,Electronics,82,69,85,74
+Anjali Desai,CE2023009,Civil Eng.,95,88,100,91
+Nikhil Rao,IT2023010,Info. Technology,60,44,55,62
+Preethi Sundaram,CS2023011,Computer Science,77,65,79,68
+Gautam Bose,ME2023012,Mechanical Eng.,38,28,30,42
+Swathi Krishnan,EC2023013,Electronics,85,72,88,69
+Vikas Malhotra,CE2023014,Civil Eng.,56,41,50,46
+Ritu Agarwal,IT2023015,Info. Technology,92,87,94,85
+Kiran Kumar,CS2023016,Computer Science,46,34,40,38
+Sunita Pillai,ME2023017,Mechanical Eng.,79,66,82,70
+Arjun Kapoor,EC2023018,Electronics,68,50,63,54
+Bhavna Singh,CE2023019,Civil Eng.,84,73,89,77
+Venkat Reddy,IT2023020,Info. Technology,43,29,35,44
